@@ -12,7 +12,7 @@
 
 #define AppName       "SSMS Quick Restore"
 #define AppVersion    "1.0.0"
-#define AppPublisher  "anzdev4life"
+#define AppPublisher  "Anson Nguyen"
 #define AppURL        "https://github.com/annguyen209/SsmsQuickRestore"
 #define BuildOutput   "..\src\bin\Release\net48"
 

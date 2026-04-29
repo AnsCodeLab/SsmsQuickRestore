@@ -222,7 +222,7 @@
                 <Run Text="  by "/>
                 <Hyperlink NavigateUri="https://github.com/annguyen209"
                            RequestNavigate="AuthorLink_Click">
-                    anzdev4life
+                    Anson Nguyen
                 </Hyperlink>
             </TextBlock>
 
