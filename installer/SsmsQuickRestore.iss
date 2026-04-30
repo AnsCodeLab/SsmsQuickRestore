@@ -11,8 +11,8 @@
 ; Output: installer\Output\SsmsQuickRestore-Setup-<version>.exe
 
 #define AppName       "SSMS Quick Restore"
-#define AppVersion    "1.1.0"
-#define AppPublisher  "Anson Nguyen"
+#define AppVersion    "1.1.1"
+#define AppPublisher  "AnsCodeLab"
 #define AppURL        "https://github.com/annguyen209/SsmsQuickRestore"
 #define BuildOutput   "..\src\bin\Release\net48"
 
